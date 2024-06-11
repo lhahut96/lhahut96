@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Vue, NextJs**
 
-- 📫 How to reach me **lhahut96@gmail.com**
+- 📫 How to reach me **lucas@lucasle.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
